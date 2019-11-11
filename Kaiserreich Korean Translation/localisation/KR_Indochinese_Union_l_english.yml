@@ -367,11 +367,11 @@ viet.32.b:0 "Compromise."
 viet.33.t:0 "총파업!"
 viet.33.d:0 "Being ignored, the trade unions all over the country, led by the Indochinese Revolutionary League, launched a general strike against the government. They demand an immediate stop of all violation against workers' right and a shift on political direction to more worker's self-governance!"
 viet.33.a:0 "Time to establish state control over insubordinate unions!"
-viet.33.b:0 "Accepte their demand."
+viet.33.b:0 "그들의 요구들을 들어주어라."
 
-viet.34.t:0 "Crackdown on Trade Unions"
+viet.34.t:0 "노동조합 사이의 균열"
 viet.34.d:0 "The general strike escalated into a violent conflict between workers and police. The Indochinese Revolutionary League is now in open opposition to the government and began to organise rebellion. Our police used drastic methods to stop them and now syndicalists are massively arrested and persecuted."
-viet.34.a:0 "Now is the time to eliminate traitors."
+viet.34.a:0 "배신자들을 처단할 시간이다."
 
 viet.35.t:0 "떤 비엣당(신 베트남 혁명당)의 활동"
 viet.35.d:0 "The New Viet Revolutionary Party, also known as Tan Viet party, is organised in the line of a vanguard party and adhere to the idea of democratic centralism. The party members are organised into secret cells and often engage with clandestine activi, which is sometimes regarded as non-democratic and suspicious by other political factions. Some politicians suspect they are secretly planning to overthrow the government by force. Should we put a limit on their activities based on the principle of political openness?"
@@ -454,7 +454,7 @@ viet.65.c:0 "Landlordism is the problem!"
 viet.66.t:0 "교외로 극단주의가 퍼지다"
 viet.66.d:0 "정부가 부추긴 많은 농민들이 토지, 생산 수단, 그리고 지주들로부터 사유 재산을 빼앗기 위해 일어났습니다. 많은 지주들이 굴욕을 당하고 농민들로부터 체벌을 받습니다. 몇몇 저명한 학자와 신사들이 자살했습니다. 많은 지식인들은 정부가 법과 질서를 보호해야 한다고 항의하고 있습니다."
 viet.66.a:0 "1000년 동안 이어진 봉건제보다 극단주의가 낫다."
-viet.66.b:0 "That's too much."
+viet.66.b:0 "확실히 너무 심했다."
 #Red Terror!
 
 viet.67.t:0 "재분배 대상 확대?"
@@ -473,8 +473,8 @@ viet.69.a:0 "인민군을 보내라."
 
 viet.70.t:0 "Enlist an amateur guerrilla leader?"
 viet.70.d:0 "최근 성공한 게릴라 지도자는 어느 정도 주목을 받았습니다. 이전에 통킹의 지식인 집단에서 '안 반(Brother Literati)'으로 알려졌던 이 남자는 역사 교사로서의 직업을 버리고 게릴라를 조직해 독일에 맞서 기발한 승리를 거뒀습니다. 그는 어떠한 공식적인 군사 훈련도 받은 적이 없으며 T.E. 로렌스의 지혜의 일곱기둥으로부터 군사 전술을 배운다고 주장합니다. 몇몇은 그가 진정한 군사적 재능을 가지고 있다고 믿지만 프랑스에서 훈련 받은 장군들은 그것을 의심합니다. 이 아마추어를 우리 군에 입대시켜야 할까요?"
-viet.70.a:0 "Let's see what can he do."
-viet.70.b:0 "No, we don't need a literati in army."
+viet.70.a:0 "그가 무엇을 할 수 있을지 보자."
+viet.70.b:0 "아니. 군대에 지식인의 자리는 없다."
 
 
 viet.71.t:0 "군제개혁"
@@ -493,11 +493,11 @@ viet.74.a:0 "Excellent."
 
 viet.79.t:0 "구정공세!"
 viet.79.d:0 "베트남 사람들이 음력 설을 축하하고 폭죽을 터뜨린 자정 직후 하노이 주재 독일 대사관에서 수류탄이 터졌습니다. 거대한 규모의 베트콩 군대가 모든 도시와 마을을 상대로 대규모 공격을 감행하는 동안, 베트콩 특공대가 하노이 시내에 나타났습니다. 베트콩의 농노들이 주도하고, 마체테와 창으로 무장한 무명의 농민들이 여러 지역에서 일어나 '폭군들을 제거하라'라고 말했습니다. 우리는 완전히 허를 찔렸습니다!"
-viet.79.a:0 "Is this how Vietcong celebrate Lunar New Year?"
+viet.79.a:0 "이게 베트콩들이 새해를 축하하는 방식인가?"
 
 viet.80.t:0 "사이공 포격"
 viet.80.d:0 "오늘 아침, 독일군은 독일 군함과 공중 폭격 모두를 이용하여 사이공 시를 폭격하기 시작했습니다. 마침내 이 공격이 중단되었을 때, 사이공에 있던 대부분의 주요 건물들은 완전히 무너졌습니다. 그러나 이 폭격은 독일 도둑들에 대한 우리 민족의 증오를 악화시킬 뿐입니다."
-viet.80.a:0 "Damn it."
+viet.80.a:0 "망할."
 
 
 viet.81.t:0 "New Textbooks"
@@ -586,7 +586,7 @@ viet.96.a:0 "Sounds like a new fashion."
 viet.96.b:0 "Another worrisome radical ideology."
 viet.96.c:0 "Sorelianism is wrong! Stop these dumb teens!"
 
-viet.97.t:0 "Battle of Hue"
+viet.97.t:0 "후에 전투"
 viet.97.d:0 "Our troops launched a coordinated offensive to take Hue, the ancient imperial capital city of Vietnam. As expected, it's the lair of Vietnamese reactionaries. German and loyal Vietnamese troops occupied some well fortified positions in the city, including the imperial citadel. Our army was engaged in heavy house-to-house and street fighting to take the city. All the available heavy equipments are gathered and many buildings are demolished to achieve a breakthrough. The battle for the Imperial Citadel is no less brutal. Out of 160 buildings of the Imperial City only few major sites remained intact when the flag of Indochinese Union flying on the Citadel flag tower. During and after the bloody battle, thousands of die-hard reactionary civilians were switfly executed."
 viet.97.a:0 "Hue!Hue!Hue!"
 
@@ -603,10 +603,10 @@ viet.110.d:0 "Although official record states that Comrade Ho Chi Minh, or bette
 viet.110.a:0 "It's good to have a try."
 viet.110.b:0 "We already know he died."
 
-viet.111.t:0 "We found Brother Ho's wife?"
+viet.111.t:0 "호치민 동지의 아내?"
 viet.111.d:0 "During our investigation, we found a woman in Guangzhou, Tang Tuyet Minh, claiming she was brother Ho's wife. The legal witnesses of their marriage in China, Cai Chang and Deng Yingchao, confirmed the fact and we also found notes and letters written by Ho Chi Minh in her collection. However, brother Ho's celibacy has been a symbol of his dedication to the revolution. It might be embrassing to admit this marriage..."
-viet.111.a:0 "Invite her to Indochina."
-viet.111.b:0 "This should remain a secret, Brother Ho is only married to revolution."
+viet.111.a:0 "인도차이나로 그녀를 초대하라."
+viet.111.b:0 "이것은 비밀로 취급되어야 한다. 호치민 동지는 오직 혁명과 결혼하셨다."
 
 viet.112.t:0 "The legend of Guangxi guerillas"
 viet.112.d:0 "Our investigation of Brother Ho continues. There was a rumor in southern China that some ethnic minorities conducted a guerrilla warfare in Guangxi against local warlords in the late 1920s. Maybe it has some connections with comrade Ho Chi Minh."
@@ -697,7 +697,7 @@ viet.151.d:0 "The [From.GetAdjective] government has sent word that [From.GetFac
 viet.151.a:0 "What a shame."
 
 
-viet.152.t:0 "Indochina Wants to Cooperate"
+viet.152.t:0 "인도차이나는 협력을 원한다"
 viet.152.d.a:0 "The newly independent Indochinese Union has changed the balance of power in Indochinese peninsula. Now they have sent the words that they want closer cooperation with us. This is a good chance for us to defeat our common enemy Siam."
 viet.152.d.b:0 "The newly independent Indochinese Union has changed the balance of power in Indochinese peninsula. Now they have sent the words that they want closer cooperation with us. This is a good chance for us to defeat our common enemy Burma."
 viet.152.a:0 "Unite and we will be stronger!"
@@ -716,27 +716,27 @@ viet.155.d:0 "Our Indochinese comrades have started the righteous war against Si
 viet.155.a:0 "War!"
 viet.155.b:0 "Time is not ripe."
 
-viet.156.t:0 "Commune's Stake in Indochina?"
+viet.156.t:0 "인도차이나에 생긴 코뮌의 영향력?"
 viet.156.d:0 "Today a meeting is held in Paris by the 'French Friends of Indochina' association. In this very rare case, both the old Jacobin Marcel Cachin and Sorelian general Jacques Doriot attended the meeting and spoke for a closer relationship with Indochina, a newly-independent socialist country in Asia. They argued that the Commune has done a lot to help the Indochinese people to win their independence, but the responsibility of France for her former colony does not conclude. We can and we should offer to the people there a special relation, as it passes through the present period of transition on its way to a new era - an era of pride and independence, and era of enlightenment and socialism - an era which, when contrasted with the bleak past of colonial oppression, will truly represent the ideal of socialist revolution."
-viet.156.a:0 "Enlist them as soldiers against Imperialism."
-viet.156.b:0 "Assist the inspiring growth of Indochinese socialism and economy."
-viet.156.c:0 "What can we get from this? Pho?"
+viet.156.a:0 "그들은 제국주의에 대항하는 용사들이다!"
+viet.156.b:0 "인도차이나의 사회주의와 경제의 발전을 도와주어라."
+viet.156.c:0 "우리가 여기서 뭘 얻을 수 있지? 쌀국수?"
 
 viet.157.t:0 "Military Ties with France"
 viet.157.d:0 "Our comrades in the Commune of France haven't forgotten us. France has decided to establish a close political and military relationship with us. They sent their political specialists, military engineers and officers to facilitate the development of socialism and military force in Indochina."
-viet.157.a:0 "Solidarity Forever!"
+viet.157.a:0 "연대는 영원할 것이다!"
 
 viet.158.t:0 "Economic Ties with France"
 viet.158.d:0 "Our comrades in the Commune of France haven't forgotten us. France has decided to establish a close political and economic relationship with us. They sent their political specialists, engineers and technicians to facilitate the development of socialism and industrialisation in Indochina."
-viet.158.a:0 "Solidarity Forever!"
+viet.158.a:0 "연대는 영원할 것이다!"
 
 viet.159.t:0 "France is not Interested in Indochina"
 viet.159.d:0 "The Commune of France has decided that they are not interested in Indochina anymore. They refused any kind of closer cooperation beyond basic relation between socialist countries."
-viet.159.a:0 "What a shame."
+viet.159.a:0 "부끄럽군."
 
 viet.161.t:0 "Uprisings in Laos and Cambodia"
 viet.161.d:0 "The agitators infiltrating from Indochina has started an armed uprising in Laos and Cambodia. The Laotian and Cambodian guerrillas are harassing our soldiers to support their Indochinese overlord."
-viet.161.a:0 "Damn it!"
+viet.161.a:0 "젠장!"
 
 viet.162.t:0 "[From.GetNameDefCap] Seeks Closer Ties"
 viet.162.d:0 "It seems that the [From.GetAdjective] now seeks closer political and economic ties with powers closer to home. [From.GetNameDef] has proven themselves to be an admant fighter against Imperialists. Are we interested in their proposition?"
@@ -877,17 +877,17 @@ INC_Smuggling_Activation:0 "Activate §YArms-Trafficking System§!\n"
 #Utopian commune experiment
 #We should try to set up several experimental communes in the suburbs of Saigon modelling on agricultural communes in France. They will be the model for all peasants in Indochina.
 
-INC_encourage_peasant_struggle_decision:0 "Encourage the Peasants to Struggle"
+INC_encourage_peasant_struggle_decision:0 "소작농들의 저항 독려"
 INC_encourage_peasant_struggle_decision_desc:0 "The land reform shouldn't be a passive process to our peasants. They should be mobilised to reclaim their own right. This is a chance to invoke the revolutionary spontaneity!"
 INC_expropriate_traitors_land:0 "Expropriate the Land of Traitors"
-INC_political_instruction_decision:0 "Political Instruction"
+INC_political_instruction_decision:0 "사상 교육"
 INC_political_instruction_decision_desc:0 "PThe peasants are potatoes in a sack. The land reform must be carefully instructed by our cadres and political comissars along the correct line, that is, the line of socialism."
 INC_seize_the_means_of_production_decision:0 "Seize the Means of Production"
 INC_expand_peasant_associations_decision:0 "Expand Peasant Associations"
 INC_struggle_against_landlords_decision:0 "Struggle Against Landlords"
 INC_rectify_errors_decision:0 "Rectify our Errors"
 INC_land_reform_finished:0 "§YLand Reform progress§! reachs 100"
-INC_land_reform_promise_mission:0 "Finish the Land Reform"
+INC_land_reform_promise_mission:0 "토지 개혁을 종료하다"
 INC_land_reform_promise_mission_desc:0 "We have to finish the land reform. If the promise of a Land Reform is left unfulfilled, people will be very dissapointed."
 INC_collectivisation_experiment_decision:0 "Towards Collectivisaton!"
 INC_collectivisation_experiment_decision_desc:0 "The ultimate goal of we socialists is not to achieve equitable distribution of farmland like the Confucian ideal of 'land to the tillers' but rather, the reorganisation of all farmers into co-operatives in which land and other factors of agricultural production would be owned and used collectively. With the momentum of land reform, we shouldn't miss the chance to push the collectivisation!"
@@ -895,17 +895,17 @@ INC_collectivisation_experiment_decision_desc:0 "The ultimate goal of we sociali
 #Peasants respond passively to land reform
 
 
-INC_smuggling_decisions:0 "Arms-Trafficking Network"
+INC_smuggling_decisions:0 "무기 밀수 네트워크"
 INC_smuggling_decisions_desc:1 "Under the emergent war situation, we have activated an international underground smuggling network to gain desperately needed weapon and all war materials. The network will give us access to foreign weapons and war materials against enemy blockade.\n"
 INC_Something_I_Want_to_Implement:0 "\nCurrent §YCapacity§! of the §YUnderground Arms-Trafficking§!: £convoy_texticon [?INC.network_strength|-0]\n"
 spend_10_smuggle:0 "§Y10§! Traffick Capacity"
 spend_10_smuggle_blocked:0 "§Y10§! Traffick Capacity"
 spend_10_smuggle_tooltip:0 "It costs §R10§! §YGuerrilla Strength§! to take this action."
-INC_expand_network_in_Siam_decision:0 "Smuggling Along the Mekong river."
+INC_expand_network_in_Siam_decision:0 "메콩 강을 통한 밀수"
 INC_expand_network_in_Siam_decision_desc:0 "The Mekong river is not only the mother river of people living in the Mekong delta, but also notorious for being the sanctuary of smugglers in the Indochinese peninsula. Germany has no ability to control underground activities along the river, and we should take the chance."
 INC_expand_network_in_Siam_tooltip:0 "§YThis will give us access to arms dealers around the Indochinese peninsula§!"
-INC_build_junk_fleet_decision:0 "Create a Junk Fleet"
-INC_build_junk_fleet_decision_desc:0 "While the powerful German navy is able to interdict International convoys from approaching South China Sea, they can never capture every junk ship here. By mobilising fishermen, we can create our own junk fleet to serve the noble cause of smuggling"
+INC_build_junk_fleet_decision:0 "가짜 함대 제작"
+INC_build_junk_fleet_decision_desc:0 "강력한 독일 해군은 수송선들이 남중국해로 진입하는 것을 막을 수는 있지만, 모든 배를 다 잡아내는 것은 불가능합니다. 어부들을 이용해, 밀수에 이용되는 함선을 보호하기 위한 가짜 함대를 만들 수 있습니다."
 INC_build_junk_fleet_tooltip:0 "§YThis will give us access to arms dealers around the South China Sea§!"
 INC_smuggling_in_Siam_decision:0 "Buy arms from the Siamese Black Market"
 INC_smuggling_in_Siam_decision_desc:0 "Gun control in Siam is weak. It's possible for us to directly buy guns from Siamese black market. However, this could bring unwanted notice from Siamese authority..."
